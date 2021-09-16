@@ -1,0 +1,5 @@
+C:\Users\aliss\source\repos\MinhaWebAPI\AplicacaoCliente\obj\Debug\netcoreapp3.1\AplicacaoCliente.csprojAssemblyReference.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\AplicacaoCliente\obj\Debug\netcoreapp3.1\AplicacaoCliente.AssemblyInfoInputs.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\AplicacaoCliente\obj\Debug\netcoreapp3.1\AplicacaoCliente.AssemblyInfo.cs
+C:\Users\aliss\source\repos\MinhaWebAPI\AplicacaoCliente\obj\Debug\netcoreapp3.1\AplicacaoCliente.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\AplicacaoCliente\obj\Debug\netcoreapp3.1\AplicacaoCliente.MvcApplicationPartsAssemblyInfo.cache

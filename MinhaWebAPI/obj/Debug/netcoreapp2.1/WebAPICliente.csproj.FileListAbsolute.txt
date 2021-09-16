@@ -1,0 +1,17 @@
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\WebAPICliente.deps.json
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\WebAPICliente.runtimeconfig.json
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\WebAPICliente.runtimeconfig.dev.json
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\WebAPICliente.dll
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\bin\Debug\netcoreapp2.1\WebAPICliente.pdb
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.csprojAssemblyReference.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.AssemblyInfoInputs.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.AssemblyInfo.cs
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.csproj.CoreCompileInputs.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.RazorAssemblyInfo.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.RazorAssemblyInfo.cs
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.RazorTargetAssemblyInfo.cache
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.dll
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.pdb
+C:\Users\aliss\source\repos\MinhaWebAPI\MinhaWebAPI\obj\Debug\netcoreapp2.1\WebAPICliente.genruntimeconfig.cache

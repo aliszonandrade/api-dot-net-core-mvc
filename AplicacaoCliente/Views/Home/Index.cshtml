@@ -1,0 +1,36 @@
+﻿<br />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td width="90">#</td>
+            <td width="90">#</td>
+            <td>ID</td>
+            <td>Nome</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{foreach (ClienteModel item in (List<ClienteModel>) ViewBag.ListagemCliente)
+            {
+                <tr>
+                    <td><button class="btn btn-default" onclick="registrar(@item.Id.ToString())">Editar</button></td>
+                    <td><button class="btn btn-danger" onclick="excluir(@item.Id.ToString())">Excluir</button></td>
+                    <td>@item.Id.ToString()</td>
+                    <td>@item.Nome.ToString()</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<button class="btn btn-block btn-primary" onclick="registrar()">Registrar</button>
+
+<script>
+    function registrar(id) {
+        if (id == null)
+            window.location.href = window.location.origin + "/Home/Registrar"
+        else
+            window.location.href = window.location.origin + "/Home/Registrar/" + id;
+    }
+    function excluir(id) {
+        window.location.href = window.location.origin + "/Home/Excluir/" + id;
+    }
+</script>
